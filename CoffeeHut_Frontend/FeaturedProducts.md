@@ -1,1 +1,1 @@
-" 20% off Discount for loyal customers!" 
+" 35% Off all Loyal Coffee Hut Customers " 
